@@ -1,7 +1,7 @@
 | Nombre | DER | DLR |
 |---|---|---|
 | ALFANDARI SIMON | B:Relacion Vende/compra tiene usuario como atributo y relacion, relacion "EN" debe ser un verbo y esta mal cardinalidad |  |
-| ALTIERI ROCCO | #REF! |  |
+| ALTIERI ROCCO | no encontrado |  |
 | ARISI MATIAS SANTIAGO | B: Garage de origen es relacion |  |
 | BOTTA DANTE GIOVANNI | R: Comprador falta pk, comenta no lleva usuario como atr, revisar cardinalidad |  |
 | CAPELLI SANTINO | R: Faltan todas las pk, cardinalidad publicacion-usuario es 1 a n, usuario comentario es 1 a n, relacion compran no se entiende |  |
