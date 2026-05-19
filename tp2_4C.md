@@ -1,5 +1,5 @@
 | Nombre | Nota | Bonus | Comentarios | 
-|---|---|---|
+|---|---|---|---|
 | Alumno/a | Nota | Bonus | comentarios |
 | ALFANDARI SIMON | 8 |  | 7,8,10: por que no lo hicieron por id?, 9: El jefe no es empleado, el join era t.dni_duenio = s.dni_jefe |
 | ALTIERI ROCCO | 8 |  | 3: Falto filtro por sector de medina, 5: Info COMPLETA de las salas,7: falto borrar el telefono, 10 falto borrar telefono |
