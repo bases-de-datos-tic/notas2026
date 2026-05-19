@@ -1,5 +1,5 @@
 | Nombre | Nota | Bonus | Comentarios | 
-|---|---|---|
+|---|---|---|---|
 | Alumno/a | Nota | Bonus | comentarios |
 | Arisi Juan Ignacio | 8 |  | 7,8,9, 10: Si tienen dni para que suman nombre y apellido? |
 | Berenstein Martín | 8 |  | 2: por que el where?, 7: falta telefono, 8: sector era 3, 10: falta telefono |
